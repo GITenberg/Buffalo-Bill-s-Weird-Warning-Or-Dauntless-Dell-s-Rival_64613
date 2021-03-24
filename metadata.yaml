@@ -1,0 +1,30 @@
+_repo: Buffalo-Bill-s-Weird-Warning-Or-Dauntless-Dell-s-Rival_64613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingraham, Prentiss
+    alias: Ingraham, Colonel Prentiss
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '6139'
+    url: http://www.gutenberg.org/2009/agents/6139
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Prentiss_Ingraham
+    - http://www.gutenberg.org/ebooks/author/46954
+description: ''
+gutenberg_issued: '2021-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Buffalo Bill border stories, no. 66.
+subjects:
+- !lcc 'PS'
+- !lcsh 'Dime novels'
+- !lcsh 'Buffalo Bill, 1846-1917 -- Fiction'
+- GITenberg
+title: Buffalo Bill's Weird Warning; Or, Dauntless Dell's Rival
+url: http://www.gutenberg.org/ebooks/64613
